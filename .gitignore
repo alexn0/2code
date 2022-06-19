@@ -1,0 +1,11 @@
+**/.gradle
+**/.idea
+**/*.iml
+*_once_inited
+**/*.*_once_inited
+**/build
+**/target
+**/Dockerfile_env_*
+**/Dockerfile_*
+**/target_env
+**/docker_target
